@@ -1,0 +1,11 @@
+.mv-item-cover {
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	object-fit: cover;
+}
+
+.mv-item {
+  margin: 10px;
+
+}

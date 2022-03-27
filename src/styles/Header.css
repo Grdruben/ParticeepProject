@@ -1,0 +1,10 @@
+.mv-header {
+	color: black;
+	text-align: center;
+	padding: 32px;
+	border-bottom: solid 3px black;
+}
+
+.mv-title {
+	padding-left: 32px;
+}
