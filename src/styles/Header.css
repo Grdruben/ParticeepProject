@@ -1,10 +1,11 @@
 .mv-header {
 	color: black;
 	text-align: center;
-	padding: 32px;
 	border-bottom: solid 3px black;
+  padding: 32px;
+
 }
 
 .mv-title {
-	padding-left: 32px;
+	padding-left: 30px;
 }

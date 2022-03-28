@@ -7,8 +7,7 @@ import '../styles/Layout.css'
 function App() {
   return (
     <div>
-
-    <Header>
+      <Header>
 				<h1 className='mv-title'>Edition des films</h1>
 			</Header>
     <div className='mv-layout-inner'>

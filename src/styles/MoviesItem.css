@@ -3,9 +3,20 @@
 	width: 200px;
 	border-radius: 20px;
 	object-fit: cover;
+
 }
 
 .mv-item {
+  list-style-type:none;
   margin: 10px;
+  diplay:flex;
+  flex-direction: column;
+  align-items: flex-start;
+	justify-content: center;
+}
+
+.mv-item-title{
+  font-weight: bold;
+  color:black;
 
 }

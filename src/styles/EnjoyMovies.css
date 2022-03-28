@@ -1,9 +1,12 @@
 .enjoy-movies {
-   display: flex;
-	 flex-direction: row;
-	 align-items: : center;
+   width: 100%
 }
 
 .movies-list {
-	
+	list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: center;
+	padding: 32px
+
 }
