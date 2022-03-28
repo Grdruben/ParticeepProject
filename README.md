@@ -1,3 +1,20 @@
+# CareScale.js
+
+Composant qui crée les jauges likes/dislikes avec leur values
+Ce composant est réutilisé dans MoviesItem.js
+
+# MoviesItem.js
+
+Composant qui crée les films dans une balise <li>
+Ce composant est réutilisé dans EnjoyMovies.js
+
+# EnjoyMovies.js
+
+Composant qui liste les films
+C'est le conteneur de nos élements flex
+Les éléments films sont regroupés dans un tableau, ce qui provoque un conflit flex-direction
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
